@@ -1,5 +1,5 @@
 def call(){
-  echo "Welcome to DevOps Training"
+  echo "Pratice On Jenkins DevOps tool"
 }
 
 
